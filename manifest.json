@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "bottlepy",
+  "repo": "bottle-extras",
+  "versions": [
+    {
+      "commit": "e385a3940ed172e99dc46f5bf05d92dd35c95e41",
+      "parsed_at": "2026-10-11T06:10:18.080300+00:00",
+      "filetree": "filetree/e385a3940ed172e99dc46f5bf05d92dd35c95e41.nq.gz",
+      "blobs": [
+        "blob/4b304d2a59be8ec0e4c6eaaaf0fa3f60103180eb.nq.gz",
+        "blob/b8b62dc050b5d2c56969e8f493aa1e62eaef97c5.nq.gz",
+        "blob/41f70b25444a48114856edf02467c93ec757c3d9.nq.gz",
+        "blob/38af035f72a2a7ae865ed479b72f70bc701fbcc9.nq.gz",
+        "blob/11362d3112b1a6f5b709ae07c3d767d868caa339.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
